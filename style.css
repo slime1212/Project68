@@ -1,0 +1,46 @@
+#campus,
+#achieve,
+#new,
+#alumni,
+#contact,
+#credits {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background: lightblue;
+}
+
+.sizefix {
+    width: 300px;
+    height: 200px;
+}
+
+#campus {
+    background: #88FF00;
+}
+
+#achieve {
+    background: #D8F000;
+}
+
+#new {
+    background: #38A9FF;
+}
+
+#alumni {
+    background: #575757;
+}
+
+#contact {
+    background: #301440;
+}
+
+#credits {
+    background: #32A852;
+}
+
+.t {
+    color: #FFFFFF;
+}
